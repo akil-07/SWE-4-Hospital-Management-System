@@ -1,7 +1,7 @@
 # Hospital-Management-System
 
-# Reg No:212224040239
-# Name:Pranav Bhargav M
+# Reg No:212225220007
+# Name:Akil S
 # Date: 26/02/26
 
 
